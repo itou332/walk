@@ -1,6 +1,6 @@
 # walk
 
-[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/walk)
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/talk)
 
 PCで描いた絵をここに記録します。<br>
 このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
@@ -22,8 +22,9 @@ The picture will also change depending on the specs of your PC or android. The p
 -<a href="https://itou332.github.io/analog/">8項目</a>
 -<a href="https://itou332.github.io/culture/">9項目</a>
 -<a href="https://itou332.github.io/walk/">10項目</a>
+-<a href="https://itou332.github.io/pine/">11項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 
-![siromoji](https://user-images.githubusercontent.com/86036169/168413093-1bb13dde-fa42-47ea-9906-d0c7c47a5e1f.svg)
+![siromoji](https://user-images.githubusercontent.com（new）.svg)
