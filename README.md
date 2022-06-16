@@ -27,4 +27,4 @@ The picture will also change depending on the specs of your PC or android. The p
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 
-![siromoji](https://user-images.githubusercontent.com（new）.svg)
+![siromoji](https://user-images.githubusercontent.com/86036169/174035758-9194e89d-8e24-4c77-afba-6cba28488b1e.svg)
