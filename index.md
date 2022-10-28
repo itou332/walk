@@ -64,11 +64,11 @@ lang: ja_JP
 <h3>2022.5/15</h3>
 <img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_5_15.svg">
 <h3>2022.5/25</h3>
-<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_5_25.svg">
+<img src="https://drive.google.com/uc?id=1-Y3uhSU4YlJ8cF_7uGR_326YDn3G13ks">
 <h3>2022.5/30</h3>
-<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_5_30.svg">
+<img src="https://drive.google.com/uc?id=1I-MDxT78Xvu_o3_5zQjK4-BxYkI7jsm_">
 <h3>2022.6/7</h3>
-<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_6_7.svg">
+<img src="https://drive.google.com/uc?id=1yUAwwBDjK6H94C_GewhETI3-z7eKlIEp">
 
 
 
