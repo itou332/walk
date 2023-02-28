@@ -34,5 +34,5 @@ The picture is written almost in SVG format.
     -<a href="http://itou33good.starfree.jp/">itou</a>
        </nav>
 
-!![siromoji](https://user-images.githubusercontent.com/86036169/174035758-9194e89d-8e24-4c77-afba-6cba28488b1e.svg)
+![siromoji](https://user-images.githubusercontent.com/86036169/174035758-9194e89d-8e24-4c77-afba-6cba28488b1e.svg)
 
