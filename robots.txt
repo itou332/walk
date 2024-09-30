@@ -1,0 +1,16 @@
+User-agent: *
+Disallow:https://itou332.github.io/walk/
+Allow: https://walk-a0z.pages.dev/
+
+# サイトマップへのアクセス
+Allow:https://github.com/itou332/walk/blob/main/sitemap.xml
+
+# 国別パスの場合
+Allow:https://walk-a0z.pages.dev/en-US/
+Allow:https://walk-a0z.pages.dev/ja/
+Allow:https://walk-a0z.pages.dev/en-EU/
+Allow:https://walk-a0z.pages.dev/en-IN/
+Allow:https://walk-a0z.pages.dev/en-IE/
+Allow:https://walk-a0z.pages.dev/fr-FR/
+
+Sitemap:https://github.com/itou332/walk/blob/main/sitemap.xml
